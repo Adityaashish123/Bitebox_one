@@ -166,7 +166,7 @@ npm start
 <a name="contri"></a>
 ## Contributors
 
-* [Sourav Paul](https://github.com/adityaashish123)
+* [Aditya Ashish](https://github.com/adityaashish123)
 * [Vishesh Agrawal](https://github.com/Vishesh-MNNIT)
 
 ## Feedback
