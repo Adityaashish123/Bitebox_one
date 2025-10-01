@@ -80,7 +80,7 @@ This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Nod
 
 1) Clone the repository using:
 ```bash
-https://github.com/PaulSaurav19/BiteBox.git
+https://github.com/Adityaashish123/Bitebox_one.git
 ```
 2) Run the following in both the "client" and "server" folders:
 ```bash
